@@ -1,1 +1,1 @@
-this is my file
+echo "this is my file"
